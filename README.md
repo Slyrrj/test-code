@@ -1,70 +1,112 @@
-# Getting Started with Create React App
+# Portfolio  Charles Cantin
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Mode d'emploi 
 
-## Available Scripts
+Installation en local
+=====================
 
-In the project directory, you can run:
+* Cloner le dépôt git
+  * ````git clone https://github.com/slyrj/evalStudi6-RIJA````
 
-### `npm start`
+* Ouvrir le dossier evalStudi6-RIJA avec un éditeur de code
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Ouvrir un termnal et entrer dans le projet
+  * ````cd evalStudi6-RIJA```` 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Dans le terminal :
+ 
+* Installer les dépendances javascript    
+  * ````npm install````
 
-### `npm test`
+* Lancer le projet
+  * ````npm start````
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Déploiement (Netlify)
+====================
+* Ouvrir un termnal et entrer dans le projet
+  * ````cd evalStudi6-RIJA```` 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Dans le terminal :
+ 
+* Lancer un build    
+  * ````npm run build````
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Se connecter sur Netlify
 
-### `npm run eject`
+* Ajouter un nouveau site
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md1.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* glisser le dossier <build> (généré plus haut) dans le rond
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md2.png)
+ 
+* ou importer dire'ctement le projet de votre dépot git 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md3.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Ajouter des photos dans la page <Galérie>
+==========================================
 
-### Code Splitting
+* Se connecter sur l'instance Strapi sur Hidora 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ * ````https://env-2604330.hidora.com/```` 
 
-### Analyzing the Bundle Size
+ou cliquez [ici](https://env-2604330.hidora.com/admin/auth/login) !
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md4.png)
+	
+       - _Email:_  **mitiatravel@mail.com**       
+       - _Mot de Passe:_ **Ch@r1e$C@ntin** 
 
-### Making a Progressive Web App
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md5.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* Cliquer sur <Images> puis  "Ajouter Images"
 
-### Advanced Configuration
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md6.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* Choisir une catégorie 
 
-### Deployment
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md7.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Cliquer pour sélectionner un média ou glisser & déposer l image dans la zone
 
-### `npm run build` fails to minify
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md8.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Cliquer sur "Ajouter plus de media" => "Parcourrir les fichiers"
+
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md9.png)
+
+* Cliquer sur  "Terminer" 
+
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md10.png)
+
+* Cliquer sur "Valider" 
+
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md11.png)
+
+* Cliquer sur "Publier" 
+
+![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md12.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
