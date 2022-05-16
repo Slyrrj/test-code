@@ -63,7 +63,7 @@ ou cliquez [ici](https://env-2604330.hidora.com/admin/auth/login) !
        - _Email:_  **mitiatravel@mail.com**       
        - _Mot de Passe:_ **Ch@r1e$C@ntin** 
 
-![alt text](https://github.com/slyrj/evalStudi6-RIJA/blob/main/img_md/md5.png)
+![alt text](https://github.comSlyrrj/test-code/blob/main/img_md/md5.png)
 
 * Cliquer sur <Images> puis  "Ajouter Images"
 
