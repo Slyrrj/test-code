@@ -43,7 +43,7 @@ Déploiement (Netlify)
 
 ![alt text](https://github.com/Slyrrj/test-code/blob/main/img_md/md2.png)
  
-* ou importer dire'ctement le projet de votre dépot git 
+* ou importer directement le projet de votre dépot git 
 
 ![alt text](https://github.com/Slyrrj/test-code/blob/main/img_md/md3.png)
 
@@ -58,7 +58,7 @@ Ajouter des photos dans la page <Galérie>
 
 ou cliquez [ici](https://env-2604330.hidora.com/admin/auth/login) !
 
-![alt text](https://github.com/Slyrrj/test-code/img_md/md4.png)
+![alt text](https://github.com/Slyrrj/test-code/blob/img_md/md4.png)
 	
        - _Email:_  **mitiatravel@mail.com**       
        - _Mot de Passe:_ **Ch@r1e$C@ntin** 
