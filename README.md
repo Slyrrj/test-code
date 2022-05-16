@@ -56,9 +56,9 @@ Ajouter des photos dans la page <Galérie>
 
  * ````https://env-2604330.hidora.com/```` 
 
-ou cliquez [ici](https://env-2604330.hidora.com/admin/auth/login) !
+ou cliquez [ici!](https://env-2604330.hidora.com/admin/auth/login) 
 
-![alt text](https://github.com/Slyrrj/test-code/blob/img_md/md4.png)
+![alt text](https://github.com/Slyrrj/test-code/blob/main/img_md/md4.png)
 	
        - _Email:_  **mitiatravel@mail.com**       
        - _Mot de Passe:_ **Ch@r1e$C@ntin** 
